@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @AhmedElwakil2004
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ROM Source
-- 📫 How to reach me : Telegram @PotatoMido
+### Whats Up!
 
-<!---
-AhmedElwakil2004/AhmedElwakil2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Ahmed Elwakil github stats](https://github-readme-stats.vercel.app/api?username=AhmedElwakil2004&show_icons=true&title_color=56ec99&text_color=ececec&icon_color=00ffba&bg_color=2c2a2a)
